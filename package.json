@@ -1,0 +1,25 @@
+{
+  "name": "jamming-with-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darcyclarke/jamming-with-npm.git"
+  },
+  "keywords": [],
+  "author": "Darcy Clarke <darcy@darcyclarke.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darcyclarke/jamming-with-npm/issues"
+  },
+  "homepage": "https://github.com/darcyclarke/jamming-with-npm#readme",
+  "dependencies": {
+    "handlebars": "^4.7.3",
+    "node-fetch": "^2.6.0"
+  }
+}
