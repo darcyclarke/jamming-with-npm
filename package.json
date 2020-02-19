@@ -20,6 +20,7 @@
   "homepage": "https://github.com/darcyclarke/jamming-with-npm#readme",
   "dependencies": {
     "handlebars": "^4.7.3",
+    "mkdirp": "^1.0.3",
     "node-fetch": "^2.6.0"
   }
 }
